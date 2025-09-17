@@ -1,0 +1,24 @@
+{
+  "name": "sql-detective",
+  "version": "1.0.0",
+  "description": "![Illustration of a detective looking at evidence](174092-clue-illustration.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "npm "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andravi/sql-detective.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Andravi/sql-detective/issues"
+  },
+  "homepage": "https://github.com/Andravi/sql-detective#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "path": "^0.12.7"
+  }
+}
